@@ -1,13 +1,35 @@
 # README - Sistema de Urgencias Hospitalarias con Min-Heap
 
-## Descripción General
+## Descripcion General
 
 El Sistema de Urgencias Hospitalarias es una aplicación desarrollada en Python que simula la gestión de pacientes en una sala de emergencias utilizando una estructura de datos Min-Heap.
 
 El objetivo principal es organizar la atención médica según la gravedad de cada paciente, donde un valor menor representa una mayor prioridad de atención.
 
 ---
-
+## Contenido
+- [Descripcion General](#Descripcion-General)
+- [Funcionamiento del sistema](#Funcionamiento-del-sistema)
+    - [Características principales](#Características-principales)
+- [Requisitos e instalación](#Requisitos-e-instalación)
+    - [Requisitos](#Requisitos)
+    - [Ejecución](#Ejecución)
+- [Menú principal](#Menú-principal)
+- [Opciones del sistema](#Opciones-del-sistema)
+- [Estructura del código](#Estructura-del-código)
+- [Funcionamiento del Min Heap](#Funcionamiento-el-Min-Heap)
+- [Ejemplo de uso](#Ejemplo-de-uso)
+    - [Agregar paciente](#Agregar-paciente)
+    - [Atender paciente](#Atender-paciente)
+- [Datos de prueba](#Datos-de-prueba)
+- [Personalización](#Personalización)
+    - [Cambiar rango de gravedad](#Cambiar-rango-de-gravedad)
+    - [Cambiar historial mostrado](#Cambiar-historial-mostrado)
+- [Posibles errores](#Posibles-errores)
+- [Complejidad algorítmica](#Complejidad-algorítmica)
+- [Autor](#Autor)
+- [Referencias](#Referencias)
+---
 ## Funcionamiento del sistema
 
 El sistema utiliza un Min-Heap para mantener al paciente con mayor prioridad en la parte superior de la estructura. Esto permite que el paciente más grave sea atendido primero.
@@ -90,7 +112,7 @@ class SistemaUrgencias:
 
 ---
 
-## Funcionamiento del Min-Heap
+## Funcionamiento del Min Heap
 
 ```text
           [1]
@@ -182,7 +204,7 @@ Cambiar el número 5 por la cantidad deseada.
 ---
 
 ## Autor
-
+Montes Olivares Sergio
 Práctica realizada para la materia de Estructuras de Datos, utilizando una implementación de Min-Heap aplicada a un sistema de triaje hospitalario.
 
 ---

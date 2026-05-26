@@ -205,6 +205,7 @@ Cambiar el número 5 por la cantidad deseada.
 
 ## Autor
 Montes Olivares Sergio
+
 Práctica realizada para la materia de Estructuras de Datos, utilizando una implementación de Min-Heap aplicada a un sistema de triaje hospitalario.
 
 ---

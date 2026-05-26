@@ -187,14 +187,7 @@ Práctica realizada para la materia de Estructuras de Datos, utilizando una impl
 
 ---
 
-## Licencia
-
-Proyecto desarrollado con fines educativos. Libre para uso y modificación académica.
-
----
-
 ## Referencias
 
 - Documentación oficial de Python: https://www.python.org/doc/
 - Heap Queue Algorithm - Python Docs: https://docs.python.org/3/library/heapq.html
-- Conceptos de triage hospitalario - OMS: https://www.who.int/
